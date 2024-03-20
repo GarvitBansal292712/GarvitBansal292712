@@ -1,3 +1,5 @@
+![MasterHead](https://as2.ftcdn.net/v2/jpg/02/82/86/95/1000_F_282869545_l5HqdgD5Uup1WE0VLC21DNDkpx7G1jTc.jpg)
+
 <h1 align="center">Hi 👋, I'm Garvit Bansal</h1>
 <h3 align="center">🚀 Unleashing Code Magic: Journey of a Passionate Frontend Maestro from India! 💻✨</h3>
 <img align="right" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=82a1493bse16mz8q7brp5c82ile7v97t9gdnfnaa8kmxr7yi&ep=v1_gifs_related&rid=200w.gif&ct=g" alt="coding gif" width="300" >
